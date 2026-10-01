@@ -30,8 +30,15 @@
 무료 배포본은 Apple Developer ID 서명·공증을 받지 않았습니다. macOS가 실행을 차단할 수 있습니다. [자세한 설치·연결 안내](docs/INSTALL.md)를 먼저 확인하세요.
 
 ### 소스만 있는 경우
+`Code → Download ZIP`으로 내려받아 압축을 풉니다.
 
-`Code → Download ZIP`으로 받아 압축을 풀고 `Install.command`를 실행합니다. Apple Command Line Tools가 필요하며, 이 과정은 사용자 맥에서 앱을 만듭니다. 터미널 사용법은 [설치 안내](docs/INSTALL.md)에 있습니다.
+1. 맥에서 ‘터미널’ 앱을 엽니다.
+2. `bash`를 입력하고 스페이스를 한 번 누릅니다.
+3. 압축을 푼 폴더 안의 `Install.command` 파일을 터미널 창으로 끌어다 놓습니다.
+4. Enter를 눌러 설치를 시작합니다.
+
+Apple Command Line Tools 설치 안내가 나오면 설치를 완료한 뒤 위 과정을 다시 실행합니다. 이 과정은 사용자 맥에서 앱을 만듭니다.
+자세한 계정 연결 방법은 [설치 안내](docs/INSTALL.md)를 참고하세요.
 
 ## 필요한 외부 도구
 
