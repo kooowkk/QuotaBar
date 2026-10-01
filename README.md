@@ -59,7 +59,6 @@ QuotaBar 자체는 무료이며 서버, 유료 API, Apple 개발자 등록 없�
 
 ## 개발 및 배포
 
-- [GitHub에 올리는 방법](docs/PUBLISH.md)
 - [배포 전 실제 맥 확인 항목](docs/RELEASE-CHECKLIST.md)
 - [변경 내역](CHANGELOG.md)
 - [외부 도구와 출처](THIRD_PARTY_NOTICES.md)
