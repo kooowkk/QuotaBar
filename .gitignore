@@ -1,0 +1,23 @@
+# Build output
+/build/
+/dist/
+*.app/
+*.dmg
+*.zip
+.DS_Store
+*.log
+
+# Local credentials and settings
+.env
+.env.*
+!.env.example
+.auth/
+.claude/
+.codex/
+auth.json
+credentials.json
+subscriptions.json
+*.key
+*.pem
+*.p12
+*.mobileprovision
